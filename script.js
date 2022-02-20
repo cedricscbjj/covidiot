@@ -409,6 +409,18 @@ const lien8 = [
   {
     "": "https://www.francesoir.fr/societe-sante/top-13-des-revenus-annuels-recents-verses-par-lindustrie-pharmaceutique",
     "__1": "CONFLIT D INTERET"
+  },
+     {
+    "": "https://www.huffingtonpost.fr/entry/senat-ce-conseiller-de-mckinsey-a-peine-a-justifier-le-montant-du-contrat-de-son-cabinet_fr_61e7f45ae4b01f707daa96ff",
+    "__1": "le cabinet mc kinsey bosse pour l'elysee pour conseiller par rapport au covid"
+  },
+     {
+    "": "https://www.publicsenat.fr/article/politique/mckinsey-citwell-accenture-ce-que-l-on-sait-des-commandes-passees-par-le",
+    "__1": "L etat est dependant des cabinets de consulting, les services publics incompetents?"
+  },
+    {
+    "": "https://www.lexpress.fr/actualite/monde/europe/textos-echanges-avec-le-pdg-de-pfizer-les-petits-secrets-d-ursula-von-der-leyen_2167051.html",
+    "__1": "Ursula Von Leyen ne veut pas montrer ses petits textos echangés avec le pdg de pfizer"
   }
     ]
 
