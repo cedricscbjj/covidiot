@@ -693,7 +693,7 @@ displaymessage.innerHTML = 'Les medicaments cest un buziness, sans vente de medo
    
   case 'lien9':
                   
-displaymessage.innerHTML = 'bRIC A BRAC COVID liens non classés' ;
+displaymessage.innerHTML = 'flemme de tout classer! on parle ici un peu de pfizer et de son coté tres suspect en termes de probleme avec la justice , on parle aussi un peu de deontologie et  plein de autres trucs' ;
                   displaylink2.innerHTML = JSON.stringify(lien9,null,3);        
                 
              break;     
