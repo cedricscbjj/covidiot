@@ -628,7 +628,7 @@ const lien12 = [
 
           switch (showthelink) {
   case 'lien':
-displaymessage.innerHTML = 'Les non vaccinés sont les ennemis de la Nation, il faut les marginaliser et les rendre criminel. Vous recevez cet email car vous avez fait une demande de création de compte sur le site developer.laposte.fr.Pour confirmer cette demande dans les 24h, cliquez ic' ;
+displaymessage.innerHTML = 'Les non vaccinés sont les ennemis de la Nation, il faut les marginaliser et les rendre criminel. ' ;
                   displaylink2.innerHTML = JSON.stringify(lien, null,3) ;
          break;       
     
@@ -640,7 +640,7 @@ displaymessage.innerHTML = 'Le masque rend fou, des agressions, des exclusions, 
                   
          case 'lien2':
                   
-     displaymessage.innerHTML = 'Voici un florilege des mesures gouvernementales et des declarations mediatiques les plus debiles de la periode Covid. On se demande si les "elites" de ce pays se basent sur leurs reves ou sur des faits scientifiques pour oser sortir des idioties pareilles. Ils ne sont gueres credibles dans leurs declarations, du coup le scepticisme se renforce chez ceux qui ont encore un peu de jugeotte dans le crane. ' ;             
+     displaymessage.innerHTML = 'Voici un florilege des mesures gouvernementales et des declarations mediatiques les plus debiles de la periode Covid. On se demande si les "elites" de ce pays se basent sur leurs reves ou sur des faits scientifiques pour oser sortir des idioties pareilles. Ils ne sont gueres credibles dans leurs declarations, du coup le scepticisme se renforce chez ceux qui ont encore un peu de jugeotte dans le crane. Les autres suivront les mesures comme des moutons peu importe si on leur demande de marcher a quattre pattes pour etre autorisé a rentrer dans un bar' ;             
     console.log('HEAD SHOT FCKYOU');
      displaylink2.innerHTML = JSON.stringify(lien2, null,3) ;
                 
@@ -664,7 +664,7 @@ displaymessage.innerHTML = 'Petit a petit le monde entier se transforme face a l
                   
          break;         
            case 'lien6':
-displaymessage.innerHTML = 'On a connu des pays pauvres vivre des dictatures insoutenables, mais sous la periode COVID les pays dits developpes sont en train de rattraper leurs retards en matiere de folie gouvernementales, le covid permet les pires derives liberticides sous couvert de crise sanitaire, il faut toujours de bonnes excuses pour faire  avancer l agenda liberticide... nous vivons un test grandeur nature ce n est que le debut d un futur  soumis a encore plus de traque numerique..' ;
+displaymessage.innerHTML = 'On a connu des pays pauvres vivre des dictatures insoutenables, mais sous la periode COVID les pays dits developpes ou occidentaux sont en train de rattraper leurs retards en matiere de folie gouvernementales, le covid permet les pires derives liberticides sous couvert de crise sanitaire, il faut toujours de bonnes excuses pour faire  avancer l agenda liberticide... nous vivons un test grandeur nature ce n est que le debut d un futur  soumis a encore plus de traque numerique..' ;
                   displaylink2.innerHTML = JSON.stringify(lien6, null,3) ;
                 
   break;
