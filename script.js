@@ -436,7 +436,7 @@ const lien8 = [
   },
   {
     "": "https://www.santemagazine.fr/actualites/actualites-psycho-sexo/covid-19-vous-ne-portez-pas-de-masque-voila-ce-que-cela-dit-de-votre-personnalite-650752",
-    "__1": "DIVERS"
+    "__1": "pas de masque ca veut sociopathe? c est pas une technique pour faire culpabiliser ca encore?"
   },
   {
     "": "https://www.erasme.ulb.ac.be/fr/enseignement-recherche/comite-d-ethique/consensus-ethiques/le-code-de-nuremberg-1947",
@@ -493,7 +493,19 @@ const lien8 = [
   {
     "": "https://www.msn.com/fr-fr/divertissement/celebrites/mort-du-mannequin-st%C3%A9phanie-dubois-%C3%A0-39-ans-le-vaccin-astrazeneca-en-cause/ar-AAKqWDX?ocid=msedgntp",
     "__1": "DIVERS"
-  }
+  },
+        {
+    "": "https://www.france24.com/fr/20090903-le-laboratoire-pfizer-ecope-dune-amende-23%C2%A0milliards-dollars-",
+    "__1": "acceptez vous de mettre un vaccin dans votre corps pour lequel la societe fabricante a ete condamne pour pratiques frauduleuses?"
+  },
+             {
+    "": "https://www.lemonde.fr/economie/article/2012/08/07/accusations-de-corruption-pfizer-va-regler-pour-60-millions-de-dollars_1743442_3234.html",
+    "__1": "pfizer et les pots de vins ca y va a fond la caisse!!! mais tout va bien! faut prendre leurs vaccins sans broncher car la science a validé le vaccin!!! on espere juste que les etudes pfizer  pour faire valider le vaccin ont ete clean...."
+  } ,
+                  {
+    "": "https://violationtracker.goodjobsfirst.org/parent/pfizer",
+    "__1": "voici l ensemble de toute les condamnations de pfizer avec les filiales sous traitant! ca fait beaucoup!!!! peut t on douter la fiabilité de pfizer ou dois ton fermer les yeux???"
+  }       
             
           ] ; 
 
