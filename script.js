@@ -653,7 +653,7 @@ displaymessage.innerHTML = 'Les politiciens vont vous dire toute la journee a la
         break;        
                   
        case 'lien4':
-displaymessage.innerHTML = 'Les vaccins a la base personne veut se les farcir... les gouvernements du monde entier ont du trouver des strategies pour pouvoir les refiler. Bizarrement quand une paire de pompe en edition limitée sort ou quand le dernier smartphone APPLE est dispo en magasin il ya des queues interminables dans les magasins, les gens campent plusieurs jours pour obtenir les objets quils convoitent. Mais pour le vaccin il faut utiliser des stratagemes pour motiver les gens......' ;
+displaymessage.innerHTML = 'Les vaccins a la base personne veut se les farcir... les gouvernements du monde entier ont du trouver des strategies pour pouvoir les refiler. Bizarrement quand une paire de pompe en edition limitée sort ou quand le dernier smartphone APPLE est dispo en magasin il ya des queues interminables dans les magasins, les gens campent plusieurs jours pour obtenir les objets quils convoitent. Mais pour le vaccin il faut utiliser des stratagemes  de manipulations pour motiver les gens car sinon personnes n est candidat pour aller se faire piquer...' ;
                   displaylink2.innerHTML = JSON.stringify(lien4, null,3) ;
                 
   break;
@@ -664,7 +664,7 @@ displaymessage.innerHTML = 'Petit a petit le monde entier se transforme face a l
                   
          break;         
            case 'lien6':
-displaymessage.innerHTML = 'On a connu des pays pauvres vivre des dictatures insoutenables, mais sous la periode COVID les pays dits developpes sont en train de rattraper leurs retards en matiere de folie gouvernementales, le covid permet les pires derives liberticides sous couvert de crise sanitaire, il faut toujours de bonnes excuses pour oppresser le peuple.....' ;
+displaymessage.innerHTML = 'On a connu des pays pauvres vivre des dictatures insoutenables, mais sous la periode COVID les pays dits developpes sont en train de rattraper leurs retards en matiere de folie gouvernementales, le covid permet les pires derives liberticides sous couvert de crise sanitaire, il faut toujours de bonnes excuses pour faire  avancer l agenda liberticide... nous vivons un test grandeur nature ce n est que le debut d un futur  soumis a encore plus de traque numerique..' ;
                   displaylink2.innerHTML = JSON.stringify(lien6, null,3) ;
                 
   break;
@@ -675,7 +675,7 @@ displaymessage.innerHTML = 'Qui se rappelle du H1N1? Ils avaient voulu revendre 
                   
           break;     
                        case 'lien8':
-displaymessage.innerHTML = 'Les medicaments cest un buziness, Vous pensez donc que le covid nest pas une manne financiere? il ya une tonne de conflits d interets entre les medias le pouvoir et les lobbies pharmaceutiques, et ca date pas du covid..........' ;
+displaymessage.innerHTML = 'Les medicaments cest un buziness, sans vente de medoc les entreprises ne font pas de profit, sans profit les actionnaires boudent,  Vous pensez donc que le covid nest pas une manne financiere? il ya une tonne de conflits d interets entre les medias le pouvoir et les lobbies pharmaceutiques, et ca date pas du covid..........' ;
                   displaylink2.innerHTML = JSON.stringify(lien8, null,3) ;
         break;        
    
