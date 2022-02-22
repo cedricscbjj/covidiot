@@ -548,10 +548,14 @@ const lien10 = [
     "__1": "vouloir transmettre le vih par les vaccins theorie du complot? a creuser....  si on a voulu rendre les ethiopiennes steriles en israel , on peut vouloir aller encore plus loins dans l horreur, l'humain n'a pas de limite!"
   },
      {
-    "": "https://www.lepoint.fr/monde/quand-israel-force-ses-ethiopiennes-a-la-contraception-30-01-2013-1622050_24.php",
-    "__1": "le vaccin pour les femmes ethiopiennes etaient presente comme quelque chose de sympa, au final c etait un poison pour rendre sterile..........."
-  }
+    "": "https://www.nouvelobs.com/sante/20190815.AFP2484/vih-un-documentaire-affirme-qu-un-groupe-a-complote-pour-contaminer-des-sud-africains-noirs.html",
+    "__1": "vacciner pourn diminuer la population quelle idee!!!"
+  },
    
+     {
+    "": "https://www.independent.co.uk/news/world/africa/south-africa-apartheid-aids-saimr-plot-infect-hiv-virus-black-cold-case-hammarskjold-documentary-a8749176.html",
+    "__1": "complot ou realite? enquetez!!!!"
+  }
     ]
 
 
