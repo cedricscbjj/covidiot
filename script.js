@@ -525,6 +525,33 @@ const lien10 = [
     "": "https://www.europe1.fr/politique/il-ny-a-pas-dobligation-vaccinale-il-y-a-une-incitation-maximale-explique-gabriel-attal-4057632",
     "__1": "PASS SANITAIRE VACCINATION FORCEE"
   }
+   ,
+    {
+    "": "https://www.lemonde.fr/big-browser/article/2013/01/29/retour-israel-reconnait-avoir-controle-les-naissances-des-immigrees-ethiopiennes_6001547_4832693.html",
+    "__1": "Exemple de vaccination qui a mal tourné le cas des ethiopiennes en ISRAEL"
+  },
+   
+    {
+    "": "https://www.lepoint.fr/monde/quand-israel-force-ses-ethiopiennes-a-la-contraception-30-01-2013-1622050_24.php",
+    "__1": "le vaccin pour les femmes ethiopiennes etaient presente comme quelque chose de sympa, au final c etait un poison pour rendre sterile..........."
+  },
+    {
+    "": "https://www.humanite.fr/monde/carte-de-residence-contre-sterilisation-forcee-en-514240",
+    "__1": "le vaccin part toujours d un bon sentiment,  d'une bonne raison.... "
+  },
+     {
+    "": "https://www.lemonde.fr/afrique/article/2019/04/26/afrique-du-sud-les-secrets-de-l-apartheid-peu-a-peu-devoiles_5455521_3212.html",
+    "__1": "tiens tiens, en afrique du sud pendant l'apartheid ils ont aussi eu des idees malsaines... et ca passait par la vaccination....heureusement le plan diabolique n a pas marche semble t il."
+  },
+     {
+    "": "https://www.theguardian.com/world/2019/jan/27/south-african-intelligence-officers-spread-aids-black-communities",
+    "__1": "vouloir transmettre le vih par les vaccins theorie du complot? a creuser....  si on a voulu rendre les ethiopiennes steriles en israel , on peut vouloir aller encore plus loins dans l horreur, l'humain n'a pas de limite!"
+  },
+     {
+    "": "https://www.lepoint.fr/monde/quand-israel-force-ses-ethiopiennes-a-la-contraception-30-01-2013-1622050_24.php",
+    "__1": "le vaccin pour les femmes ethiopiennes etaient presente comme quelque chose de sympa, au final c etait un poison pour rendre sterile..........."
+  }
+   
     ]
 
 
@@ -698,7 +725,7 @@ displaymessage.innerHTML = 'flemme de tout classer! on parle ici un peu de pfize
                 
              break;     
                       case 'lien10':
-displaymessage.innerHTML = 'Le gouvernement ne se cache pas, on peut au moins les applaudir pour ca, le pass sanitaire est fait pour obliger les gens a se vacciner, ce nest donc pas une mesure scientifique pour eviter la propagation du virus' ;
+displaymessage.innerHTML = 'Le gouvernement ne se cache pas, on peut au moins les applaudir pour ca, le pass sanitaire est fait pour obliger les gens a se vacciner, ce nest donc pas une mesure scientifique pour eviter la propagation du virus. Parfois dans l histoire de l humanite le vaccin a ete utilise non pas pour faire le bien mais pour faire le mal, le vaccin peut meme etre utiliser pour tuer comme les injections pour la peine de mort mais il s agit d un cas extreme..... quoi que.... Non il ya pire......' ;
                   displaylink2.innerHTML = JSON.stringify(lien10, null,3) ;
          break;       
     
