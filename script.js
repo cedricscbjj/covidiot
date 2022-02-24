@@ -505,8 +505,12 @@ const lien8 = [
                   {
     "": "https://violationtracker.goodjobsfirst.org/parent/pfizer",
     "__1": "voici l ensemble de toute les condamnations de pfizer avec les filiales sous traitant! ca fait beaucoup!!!! peut t on douter la fiabilité de pfizer ou dois ton fermer les yeux???"
+  }   ,
+               
+                      {
+    "": "https://www.dailymail.co.uk/news/article-10520953/FDA-Executive-Officer-caught-hidden-camera-admitting-Biden-force-ANNUAL-COVID-shot.html",
+    "__1": " Revelation a peine etonnante de la part du dailymAIL"
   }       
-            
           ] ; 
 
 
